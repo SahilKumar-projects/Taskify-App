@@ -172,37 +172,42 @@ Real calendar integration
 
 ---
 
-## Screenshots
+##  Screenshots
 
-### Authentication
-![Login Page](assets\taskify-login.JPG)
+###  Authentication
+![Login Page](assets/taskify-login.JPG)
 ![Register Page](assets/taskify-register.JPG)
 
 ---
 
-### Dashboard
-![Dashboard Overview](assets\taskify-dashboard.JPG)
+###  Dashboard
+![Dashboard Overview](assets/taskify-dashboard.JPG)
 
 ---
 
-### Task Management
-![Tasks Section](assets\taskify-CRUD.JPG)
+###  Task Management
+![Tasks Section](assets/taskify-CRUD.JPG)
 
 ---
 
-### Profile & Security
-![Profile Page](assets\taskify-profile.JPG)
+###  Profile & Security
+![Profile Page](assets/taskify-profile.JPG)
 
 ---
-### Calender and notifications
-![Calender](assets\taskify-calender.JPG)
-![Notifications](assets\taskify-notifications.JPG)
 
-### Change Password
-![Change password](assets\taskify-changepassword.JPG)
+### Calendar & Notifications
+![Calendar](assets/taskify-calender.JPG)
+![Notifications](assets/taskify-notifications.JPG)
 
-### Reports section
-![Reports](assets\taskify-reports.JPG)
+---
+
+###  Change Password
+![Change Password](assets/taskify-changepassword.JPG)
+
+---
+
+###  Reports
+![Reports](assets/taskify-reports.JPG)
 
 
 ### Author
